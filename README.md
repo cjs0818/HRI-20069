@@ -26,10 +26,7 @@ In Ubuntu 16.04, git is already included, but for the other OS please refer to h
     * https://opentutorials.org/course/2708
 
 
-## [W3] Real-time object detection (YOLO)
-
-
-## [W4] Human tracking
+## [W3 & W4] Real-time object detection (YOLO) & Human tracking
 
 
 ## [W5] Implement your own perception 
