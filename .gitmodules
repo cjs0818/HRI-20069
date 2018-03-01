@@ -1,3 +1,6 @@
 [submodule "W1"]
 	path = W1
 	url = git@github.com:cjs0818/HRI-20069-W1.git
+[submodule "HRI-20069-W2"]
+	path = HRI-20069-W2
+	url = git@github.com:cjs0818/HRI-20069-W2.git
