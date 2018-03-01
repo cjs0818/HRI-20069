@@ -2,9 +2,10 @@
 
 Linux Laptop required!!!
 
-## [W1] Docker (Linux Container)
+# [W1] Docker (Linux Container)
   * Docker is a kind of Linux container which can launch linux applications in group
 
+## [1] Docker and its application
 ### [1-1] Install Docker CE (Community Edition)
 Refer to https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce  
 
@@ -14,6 +15,13 @@ Refer to https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-
   * Build the app
   * Run the app
   * Recap & further study
+
+## [2] RoS using Docker
+### [2-1] Pull a pre-built RoS image using "docker pull"
+### [2-2] Build your own RoS image using Dockerfile
+### [2-3] Shell files for docker build & docker run
+### [2-4] Folder sharing
+### [2-5] Enable X-window
 
 
 ## [W2] Git (Version Control)
