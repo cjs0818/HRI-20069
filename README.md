@@ -27,11 +27,11 @@ In Ubuntu 16.04, git is already included, but for the other OS please refer to h
 
 
 ## [W3] Real-time object detection (YOLO) & Human tracking
- * darknet with Docker
- * References
-  * https://pjreddie.com/darknet/yolo/ 
-  * J. Redmon, S. Divvala, R. Girshic, A. Farhadi, "You only look once: Unified, real-time object detection," CVPR2016
-  * J. Redmon, A. Farhadi, "YOLO9000: better, faster, stronger," CVPR2017
+  * darknet with Docker
+  * References
+    * https://pjreddie.com/darknet/yolo/ 
+    * J. Redmon, S. Divvala, R. Girshic, A. Farhadi, "You only look once: Unified, real-time object detection," CVPR2016
+    * J. Redmon, A. Farhadi, "YOLO9000: better, faster, stronger," CVPR2017
 
 
 ## [W4] Implement your own perception 1
