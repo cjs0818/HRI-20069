@@ -2,21 +2,34 @@
 
 Linux Laptop required!!!
 
-## [W1] Docker
+## [W1] Docker (Linux Container)
+  * Docker is a kind of Linux container which can launch linux applications in group
+
 ### [1-1] Install Docker CE (Community Edition)
 Refer to https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce  
 
 ### [1-2] Practice Docker
-#### Define a container with Dockerfile
-#### The app itself
-#### Build the app
-#### Run the app
-#### Recap & further study
+  * Define a container with Dockerfile
+  * The app itself
+  * Build the app
+  * Run the app
+  * Recap & further study
 
-## [W2] Git
 
-## [W3] Human tracking
+## [W2] Git (Version Control)
 
-## [W4] Real-time object tracking (YOLO)
+### Install git & sign up for github.com
+In Ubuntu 16.04, git is already included, but for the other OS please refer to https://git-scm.com
+
+  * References:
+    * https://git-scm.com/book/en/v2
+    * https://opentutorials.org/course/2708
+
+
+## [W3] Real-time object detection (YOLO)
+
+
+## [W4] Human tracking
+
 
 ## [W5] Implement your own perception 
