@@ -1,6 +1,14 @@
 # HRI-20069: Introduction to S/W developmental tools & perception technologies 
 
-Linux Laptop required!!!
+  * Linux Laptop required!!!
+  * Download git repository for this Class
+  ```
+   $ git clone https://github.com/cjs0818/HRI-20069.git
+   $ cd HRI-20069
+   $ git submodule init
+   $ git submodule update
+  ```
+
 
 # [W1] Docker (Linux Container)
   * Docker is a kind of Linux container which can launch linux applications in group
