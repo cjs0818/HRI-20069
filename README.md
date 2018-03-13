@@ -3,6 +3,7 @@
   * Linux Laptop required!!!
   * Install 'terminator' (a useful editor)
   ```
+   $ sudo apt-get update
    $ sudo apt-get install terminator
   ```  
   * Download git repository for this Class
