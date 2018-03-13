@@ -1,6 +1,10 @@
 # HRI-20069: Introduction to S/W developmental tools & perception technologies 
 
   * Linux Laptop required!!!
+  * Install 'terminator' (a useful editor)
+  ```
+   $ sudo apt-get install terminator
+  ```  
   * Download git repository for this Class
   ```
    $ sudo apt-get update
@@ -11,10 +15,6 @@
    $ git submodule update
    $ cd HRI-20069-W1
    $ git checkout 01_docker
-  ```
-  * Install 'terminator' (a useful editor)
-  ```
-   $ sudo apt-get install terminator
   ```
 
 
