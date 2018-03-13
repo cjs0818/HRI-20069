@@ -3,12 +3,18 @@
   * Linux Laptop required!!!
   * Download git repository for this Class
   ```
+   $ sudo apt-get update
+   $ sudo apt-get install git
    $ git clone https://github.com/cjs0818/HRI-20069.git
    $ cd HRI-20069
    $ git submodule init
    $ git submodule update
    $ cd HRI-20069-W1
    $ git checkout 01_docker
+  ```
+  * Install 'terminator' (a useful editor)
+  ```
+   $ sudo apt-get install terminator
   ```
 
 
