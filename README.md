@@ -7,6 +7,7 @@
    $ cd HRI-20069
    $ git submodule init
    $ git submodule update
+   $ cd HRI-20069-W1
   ```
 
 
