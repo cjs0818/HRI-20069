@@ -1,10 +1,11 @@
 # HRI-20069: Introduction to S/W developmental tools & perception technologies 
 
   * Linux Laptop required!!!
-  * Install 'terminator' (a useful editor)
+  * Install several utilities
   ```
    $ sudo apt-get update
-   $ sudo apt-get install terminator
+   $ sudo apt-get install terminator # a useful editor
+   $ sudo apt-get install vim # it enables highlight in vi editor
   ```  
   * Download git repository for this Class
   ```
