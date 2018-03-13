@@ -1,6 +1,6 @@
 [submodule "HRI-20069-W2"]
 	path = HRI-20069-W2
-	url = git@github.com:cjs0818/HRI-20069-W2.git
+	url = https://github.com/cjs0818/HRI-20069-W2.git
 [submodule "HRI-20069-W1"]
 	path = HRI-20069-W1
-	url = git@github.com:cjs0818/HRI-20069-W1.git
+	url = https://github.com/cjs0818/HRI-20069-W1.git
